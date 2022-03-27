@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dipayan Roy
+- 👀 I’m interested in electronics.
+- 🌱 I’m currently learning coding.
+- 😎 I want to be a devloper.
